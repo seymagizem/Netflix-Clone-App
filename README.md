@@ -1,1 +1,3 @@
-# Netflix-Clone-App
+# Netflix Clone App
+
+Mobile Development Training Camp Completion Project
